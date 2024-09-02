@@ -1,0 +1,1 @@
+//Crie um algoritmo que leia 4 notas, mostre as notas e a média na tela
